@@ -15,7 +15,7 @@ class MSAToolWrapper(abc.ABC):
         subprocess.run(command, shell=True, stdout=subprocess.PIPE)
 
 class ClustalWWrapper(MSAToolWrapper):
-    command = 'clustalw -INFILE={infile} -OUTPUT=msf -OUTFILE={outfile}'
+    command = 'clustalw -INFILE={infile} -OUTPUT=GCG -OUTFILE={outfile}'
     def __init__(self):
         super().__init__()
 
@@ -23,7 +23,15 @@ class ClustalWWrapper(MSAToolWrapper):
         super().run(infile, outfile)
 
 class ClustalOWrapper(MSAToolWrapper):
-    command = 'clustalo -infile={infile} -outfmt=msf -outfile={outfile}'
+    command = 'clustalo -i {infile} --outfmt=msf -o {outfile} --force'
+    def __init__(self):
+        super().__init__()
+
+    def run(self, infile:str, outfile:str):
+        super().run(infile, outfile)
+
+class MuscleWrapper(MSAToolWrapper):
+    command = 'muscle -in {infile} -msf -out {outfile} -QUIET'
     def __init__(self):
         super().__init__()
 
@@ -32,7 +40,7 @@ class ClustalOWrapper(MSAToolWrapper):
 
 
 if __name__ == '__main__':
-    cw = ClustalWWrapper()
+    cw = MuscleWrapper()
     import os
     print(os.listdir('.'))
-    cw.run('test', 'test.out')
+    cw.run('data/ref_1.2/BB12001.tfa', 'temp/test.out')
