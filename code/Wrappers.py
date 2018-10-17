@@ -5,6 +5,7 @@ import abc
 import subprocess
 
 from code.Parsers import parse_blaliscore_v2_output
+from code.timer import timeit
 
 
 class ToolWrapper(abc.ABC):
@@ -13,7 +14,8 @@ class ToolWrapper(abc.ABC):
         super().__init__()
 
     @abc.abstractmethod
-    def run(self, infile: str, outfile: str):
+    @timeit
+    def run(self, infile: str, outfile: str, **kwargs):
         command = self.command.format(**{'infile': infile, 'outfile': outfile})
         subprocess.run(command, shell=True, stdout=subprocess.PIPE)
 
@@ -24,8 +26,8 @@ class ClustalWWrapper(ToolWrapper):
     def __init__(self):
         super().__init__()
 
-    def run(self, infile: str, outfile: str):
-        super().run(infile, outfile)
+    def run(self, infile: str, outfile: str, **kwargs):
+        super().run(infile, outfile, **kwargs)
 
 
 class ClustalOWrapper(ToolWrapper):
@@ -34,8 +36,8 @@ class ClustalOWrapper(ToolWrapper):
     def __init__(self):
         super().__init__()
 
-    def run(self, infile: str, outfile: str):
-        super().run(infile, outfile)
+    def run(self, infile: str, outfile: str, **kwargs):
+        super().run(infile, outfile, **kwargs)
 
 
 class MuscleWrapper(ToolWrapper):
@@ -44,12 +46,12 @@ class MuscleWrapper(ToolWrapper):
     def __init__(self):
         super().__init__()
 
-    def run(self, infile: str, outfile: str):
-        super().run(infile, outfile)
+    def run(self, infile: str, outfile: str, **kwargs):
+        super().run(infile, outfile, **kwargs)
 
 
 class BaliScoreWrapper(object):
-    command = 'bali_score_old {reference_alignment} {test_alignment} '
+    command = 'bali_score {reference_alignment} {test_alignment} '
 
     def __init__(self):
         super().__init__()
