@@ -47,7 +47,7 @@ class BaliScoreWrapper(object):
 
     def run(self, reference_alignment:str, test_alignment:str):
         command = self.command.format(**{'reference_alignment':reference_alignment, 'test_alignment':test_alignment})
-        output = subprocess.check_output(command, shell=True)#, stdout=subprocess.PIPE)
+        output = subprocess.check_output(command, shell=True)
         return parse_blaliscore_v2_output(output)
 
 
