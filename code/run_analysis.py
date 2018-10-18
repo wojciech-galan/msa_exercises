@@ -52,6 +52,6 @@ if __name__ == '__main__':
         base = path[:-3]
         print(base)
         try:
-            print(anal.run(base + 'tfa', 'temp/blah', path))
+            print(anal.run(base + 'tfa', 'temp/blah10', path))
         except NotProperNumberException:
             continue

@@ -1,0 +1,550 @@
+data/ref_10/BBA0156.
+data/ref_10/BBA0215.
+{'cl_omega': 12576.263904571533, 'cl_w': 277.12488174438477, 'muscle': 911.4971160888672}
+ClustalOmega: SP: 0.517, TC:0.35, ClustalW: SP: 0.043, TC:0.0, Muscle: SP: 0.075, TC:0.0
+data/ref_10/BBA0154.
+{'cl_omega': 934941.1172866821, 'cl_w': 230522.54605293274, 'muscle': 89494.51875686646}
+ClustalOmega: SP: 0.933, TC:0.63, ClustalW: SP: 0.896, TC:0.41, Muscle: SP: 0.909, TC:0.58
+data/ref_10/BBA0087.
+{'cl_omega': 4533.337593078613, 'cl_w': 3591.3262367248535, 'muscle': 1100.5759239196777}
+ClustalOmega: SP: 0.897, TC:0.52, ClustalW: SP: 0.803, TC:0.22, Muscle: SP: 0.885, TC:0.45
+data/ref_10/BBA0014.
+{'cl_omega': 5182.421445846558, 'cl_w': 509.15050506591797, 'muscle': 406.39567375183105}
+ClustalOmega: SP: 0.959, TC:0.85, ClustalW: SP: 0.945, TC:0.82, Muscle: SP: 0.96, TC:0.92
+data/ref_10/BBA0191.
+{'cl_omega': 58967.52095222473, 'cl_w': 35970.06154060364, 'muscle': 13041.90993309021}
+ClustalOmega: SP: 0.944, TC:0.75, ClustalW: SP: 0.937, TC:0.7, Muscle: SP: 0.95, TC:0.7
+data/ref_10/BBA0017.
+{'cl_omega': 3090.024948120117, 'cl_w': 1350.184440612793, 'muscle': 1618.9055442810059}
+ClustalOmega: SP: 0.987, TC:0.78, ClustalW: SP: 0.952, TC:0.62, Muscle: SP: 0.991, TC:0.81
+data/ref_10/BBA0097.
+{'cl_omega': 20925.854444503784, 'cl_w': 12954.062938690186, 'muscle': 11848.066329956055}
+ClustalOmega: SP: 0.978, TC:0.48, ClustalW: SP: 0.95, TC:0.46, Muscle: SP: 0.956, TC:0.43
+data/ref_10/BBA0145.
+{'cl_omega': 109950.62971115112, 'cl_w': 29858.56294631958, 'muscle': 34931.694746017456}
+ClustalOmega: SP: 0.997, TC:0.85, ClustalW: SP: 1.0, TC:0.98, Muscle: SP: 0.994, TC:0.85
+data/ref_10/BBA0132.
+{'cl_omega': 795.2032089233398, 'cl_w': 57.71970748901367, 'muscle': 93.05644035339355}
+ClustalOmega: SP: 0.966, TC:0.76, ClustalW: SP: 0.98, TC:0.82, Muscle: SP: 0.95, TC:0.6
+data/ref_10/BBA0193.
+data/ref_10/BBA0001.
+{'cl_omega': 14936.304092407227, 'cl_w': 1642.622947692871, 'muscle': 1620.2483177185059}
+ClustalOmega: SP: 0.976, TC:0.97, ClustalW: SP: 0.921, TC:0.78, Muscle: SP: 0.875, TC:0.69
+data/ref_10/BBA0162.
+data/ref_10/BBA0122.
+{'cl_omega': 110514.5480632782, 'cl_w': 38602.93364524841, 'muscle': 27554.837226867676}
+ClustalOmega: SP: 0.839, TC:0.0, ClustalW: SP: 0.784, TC:0.0, Muscle: SP: 0.847, TC:0.0
+data/ref_10/BBA0086.
+{'cl_omega': 2537.588596343994, 'cl_w': 314.2983913421631, 'muscle': 492.33055114746094}
+ClustalOmega: SP: 0.907, TC:0.77, ClustalW: SP: 0.906, TC:0.73, Muscle: SP: 0.899, TC:0.75
+data/ref_10/BBA0054.
+{'cl_omega': 31511.12461090088, 'cl_w': 11682.700395584106, 'muscle': 3556.701898574829}
+ClustalOmega: SP: 0.932, TC:0.74, ClustalW: SP: 0.884, TC:0.6, Muscle: SP: 0.907, TC:0.68
+data/ref_10/BBA0027.
+{'cl_omega': 4801.036834716797, 'cl_w': 791.0962104797363, 'muscle': 772.37868309021}
+ClustalOmega: SP: 0.874, TC:0.73, ClustalW: SP: 0.81, TC:0.64, Muscle: SP: 0.892, TC:0.73
+data/ref_10/BBA0131.
+{'cl_omega': 40592.7677154541, 'cl_w': 10515.71774482727, 'muscle': 9313.714504241943}
+ClustalOmega: SP: 0.737, TC:0.19, ClustalW: SP: 0.601, TC:0.01, Muscle: SP: 0.698, TC:0.15
+data/ref_10/BBA0155.
+{'cl_omega': 2574.666738510132, 'cl_w': 923.084020614624, 'muscle': 676.2697696685791}
+ClustalOmega: SP: 0.955, TC:0.63, ClustalW: SP: 0.897, TC:0.5, Muscle: SP: 0.928, TC:0.5
+data/ref_10/BBA0018.
+{'cl_omega': 8524.779796600342, 'cl_w': 8557.021856307983, 'muscle': 3961.528539657593}
+ClustalOmega: SP: 0.894, TC:0.0, ClustalW: SP: 0.767, TC:0.0, Muscle: SP: 0.888, TC:0.0
+data/ref_10/BBA0064.
+data/ref_10/BBA0094.
+{'cl_omega': 8491.591453552246, 'cl_w': 3632.840633392334, 'muscle': 1221.0044860839844}
+ClustalOmega: SP: 0.97, TC:0.78, ClustalW: SP: 0.937, TC:0.72, Muscle: SP: 0.959, TC:0.71
+data/ref_10/BBA0179.
+{'cl_omega': 817.5303936004639, 'cl_w': 342.23461151123047, 'muscle': 159.51299667358398}
+ClustalOmega: SP: 0.97, TC:0.77, ClustalW: SP: 0.97, TC:0.78, Muscle: SP: 0.96, TC:0.77
+data/ref_10/BBA0133.
+{'cl_omega': 92633.1615447998, 'cl_w': 47075.950622558594, 'muscle': 174319.20790672302}
+ClustalOmega: SP: 0.894, TC:0.0, ClustalW: SP: 0.581, TC:0.0, Muscle: SP: 0.819, TC:0.0
+data/ref_10/BBA0051.
+{'cl_omega': 14233.697175979614, 'cl_w': 12072.517395019531, 'muscle': 2753.571033477783}
+ClustalOmega: SP: 0.884, TC:0.67, ClustalW: SP: 0.805, TC:0.58, Muscle: SP: 0.888, TC:0.64
+data/ref_10/BBA0125.
+data/ref_10/BBA0200.
+{'cl_omega': 1477.0770072937012, 'cl_w': 2302.4215698242188, 'muscle': 1229.5477390289307}
+ClustalOmega: SP: 0.953, TC:0.71, ClustalW: SP: 0.955, TC:0.82, Muscle: SP: 0.943, TC:0.67
+data/ref_10/BBA0130.
+{'cl_omega': 3447.005033493042, 'cl_w': 10442.441463470459, 'muscle': 9366.55592918396}
+ClustalOmega: SP: 0.798, TC:0.45, ClustalW: SP: 0.774, TC:0.45, Muscle: SP: 0.784, TC:0.41
+data/ref_10/BBA0117.
+data/ref_10/BBA0110.
+data/ref_10/BBA0140.
+data/ref_10/BBA0211.
+{'cl_omega': 252.9006004333496, 'cl_w': 186.74945831298828, 'muscle': 251.7991065979004}
+ClustalOmega: SP: 0.8, TC:0.7, ClustalW: SP: 0.795, TC:0.63, Muscle: SP: 0.815, TC:0.71
+data/ref_10/BBA0008.
+{'cl_omega': 566.7035579681396, 'cl_w': 2726.846694946289, 'muscle': 1636.2285614013672}
+ClustalOmega: SP: 0.97, TC:0.88, ClustalW: SP: 0.953, TC:0.89, Muscle: SP: 0.982, TC:0.89
+data/ref_10/BBA0119.
+{'cl_omega': 145.44129371643066, 'cl_w': 100.34394264221191, 'muscle': 261.9316577911377}
+ClustalOmega: SP: 0.223, TC:0.0, ClustalW: SP: 0.0, TC:0.0, Muscle: SP: 0.067, TC:0.0
+data/ref_10/BBA0181.
+{'cl_omega': 36690.715312957764, 'cl_w': 26897.013425827026, 'muscle': 31082.818746566772}
+ClustalOmega: SP: 0.82, TC:0.33, ClustalW: SP: 0.714, TC:0.0, Muscle: SP: 0.848, TC:0.15
+data/ref_10/BBA0146.
+{'cl_omega': 196.7020034790039, 'cl_w': 293.4105396270752, 'muscle': 143.07737350463867}
+ClustalOmega: SP: 0.994, TC:0.95, ClustalW: SP: 0.992, TC:0.92, Muscle: SP: 0.996, TC:0.96
+data/ref_10/BBA0088.
+{'cl_omega': 537.1255874633789, 'cl_w': 775.7523059844971, 'muscle': 413.4058952331543}
+ClustalOmega: SP: 0.884, TC:0.77, ClustalW: SP: 0.801, TC:0.67, Muscle: SP: 0.927, TC:0.84
+data/ref_10/BBA0026.
+{'cl_omega': 553.0383586883545, 'cl_w': 1311.1863136291504, 'muscle': 2213.338851928711}
+ClustalOmega: SP: 0.967, TC:0.38, ClustalW: SP: 0.774, TC:0.31, Muscle: SP: 0.989, TC:0.34
+data/ref_10/BBA0002.
+{'cl_omega': 438.4753704071045, 'cl_w': 1440.4730796813965, 'muscle': 641.3881778717041}
+ClustalOmega: SP: 0.954, TC:0.79, ClustalW: SP: 0.929, TC:0.7, Muscle: SP: 0.935, TC:0.73
+data/ref_10/BBA0096.
+data/ref_10/BBA0184.
+{'cl_omega': 56.69808387756348, 'cl_w': 39.21699523925781, 'muscle': 44.37685012817383}
+ClustalOmega: SP: 0.966, TC:0.91, ClustalW: SP: 0.966, TC:0.91, Muscle: SP: 0.96, TC:0.91
+data/ref_10/BBA0059.
+data/ref_10/BBA0029.
+{'cl_omega': 312.0856285095215, 'cl_w': 529.9286842346191, 'muscle': 1464.5977020263672}
+ClustalOmega: SP: 0.982, TC:0.89, ClustalW: SP: 0.981, TC:0.86, Muscle: SP: 0.992, TC:0.89
+data/ref_10/BBA0166.
+{'cl_omega': 428.438663482666, 'cl_w': 545.5729961395264, 'muscle': 1425.2638816833496}
+ClustalOmega: SP: 0.855, TC:0.61, ClustalW: SP: 0.838, TC:0.63, Muscle: SP: 0.796, TC:0.52
+data/ref_10/BBA0073.
+{'cl_omega': 11195.86181640625, 'cl_w': 18396.65937423706, 'muscle': 16444.044589996338}
+ClustalOmega: SP: 0.959, TC:0.78, ClustalW: SP: 0.914, TC:0.77, Muscle: SP: 0.947, TC:0.79
+data/ref_10/BBA0062.
+{'cl_omega': 240.7388687133789, 'cl_w': 198.72570037841797, 'muscle': 86.22479438781738}
+ClustalOmega: SP: 0.746, TC:0.55, ClustalW: SP: 0.733, TC:0.52, Muscle: SP: 0.743, TC:0.54
+data/ref_10/BBA0040.
+{'cl_omega': 496.28639221191406, 'cl_w': 305.7692050933838, 'muscle': 463.6242389678955}
+ClustalOmega: SP: 0.418, TC:0.12, ClustalW: SP: 0.256, TC:0.0, Muscle: SP: 0.387, TC:0.08
+data/ref_10/BBA0147.
+data/ref_10/BBA0118.
+{'cl_omega': 95.15166282653809, 'cl_w': 111.72342300415039, 'muscle': 107.5587272644043}
+ClustalOmega: SP: 0.199, TC:0.0, ClustalW: SP: 0.165, TC:0.0, Muscle: SP: 0.199, TC:0.0
+data/ref_10/BBA0218.
+data/ref_10/BBA0213.
+data/ref_10/BBA0182.
+{'cl_omega': 2239.424467086792, 'cl_w': 5946.451663970947, 'muscle': 2263.0670070648193}
+ClustalOmega: SP: 0.878, TC:0.17, ClustalW: SP: 0.841, TC:0.09, Muscle: SP: 0.875, TC:0.18
+data/ref_10/BBA0078.
+{'cl_omega': 14563.264846801758, 'cl_w': 116398.3702659607, 'muscle': 34507.81559944153}
+ClustalOmega: SP: 0.962, TC:0.81, ClustalW: SP: 0.899, TC:0.65, Muscle: SP: 0.968, TC:0.81
+data/ref_10/BBA0103.
+{'cl_omega': 1853.564739227295, 'cl_w': 5151.237010955811, 'muscle': 1589.7564888000488}
+ClustalOmega: SP: 0.889, TC:0.56, ClustalW: SP: 0.818, TC:0.52, Muscle: SP: 0.905, TC:0.61
+data/ref_10/BBA0004.
+data/ref_10/BBA0207.
+data/ref_10/BBA0150.
+{'cl_omega': 620.5735206604004, 'cl_w': 1313.8525485992432, 'muscle': 1166.656732559204}
+ClustalOmega: SP: 0.967, TC:0.58, ClustalW: SP: 0.943, TC:0.09, Muscle: SP: 0.964, TC:0.58
+data/ref_10/BBA0152.
+{'cl_omega': 5860.13650894165, 'cl_w': 15802.824258804321, 'muscle': 4219.428062438965}
+ClustalOmega: SP: 0.868, TC:0.6, ClustalW: SP: 0.778, TC:0.45, Muscle: SP: 0.816, TC:0.53
+data/ref_10/BBA0072.
+{'cl_omega': 5301.135063171387, 'cl_w': 33178.29751968384, 'muscle': 17165.498971939087}
+ClustalOmega: SP: 0.969, TC:0.5, ClustalW: SP: 0.912, TC:0.44, Muscle: SP: 0.937, TC:0.55
+data/ref_10/BBA0020.
+{'cl_omega': 168.5464382171631, 'cl_w': 326.56097412109375, 'muscle': 346.18496894836426}
+ClustalOmega: SP: 0.869, TC:0.0, ClustalW: SP: 0.87, TC:0.0, Muscle: SP: 0.861, TC:0.0
+data/ref_10/BBA0076.
+{'cl_omega': 6239.012956619263, 'cl_w': 11672.667264938354, 'muscle': 6157.289743423462}
+ClustalOmega: SP: 0.888, TC:0.25, ClustalW: SP: 0.842, TC:0.19, Muscle: SP: 0.89, TC:0.17
+data/ref_10/BBA0173.
+{'cl_omega': 87.8593921661377, 'cl_w': 61.13696098327637, 'muscle': 90.40951728820801}
+ClustalOmega: SP: 0.993, TC:0.98, ClustalW: SP: 0.961, TC:0.9, Muscle: SP: 0.97, TC:0.9
+data/ref_10/BBA0106.
+{'cl_omega': 11028.080940246582, 'cl_w': 30114.91060256958, 'muscle': 8323.638677597046}
+ClustalOmega: SP: 0.947, TC:0.78, ClustalW: SP: 0.881, TC:0.66, Muscle: SP: 0.941, TC:0.71
+data/ref_10/BBA0003.
+{'cl_omega': 607.5100898742676, 'cl_w': 2889.7154331207275, 'muscle': 1560.6119632720947}
+ClustalOmega: SP: 0.987, TC:0.63, ClustalW: SP: 0.856, TC:0.17, Muscle: SP: 0.853, TC:0.12
+data/ref_10/BBA0056.
+{'cl_omega': 861.865758895874, 'cl_w': 696.9425678253174, 'muscle': 1531.660556793213}
+ClustalOmega: SP: 0.001, TC:0.0, ClustalW: SP: 0.0, TC:0.0, Muscle: SP: 0.001, TC:0.0
+data/ref_10/BBA0080.
+{'cl_omega': 98.65999221801758, 'cl_w': 75.63090324401855, 'muscle': 95.80016136169434}
+ClustalOmega: SP: 0.829, TC:0.59, ClustalW: SP: 0.975, TC:0.92, Muscle: SP: 0.886, TC:0.75
+data/ref_10/BBA0052.
+{'cl_omega': 1301.0540008544922, 'cl_w': 2477.6480197906494, 'muscle': 953.8123607635498}
+ClustalOmega: SP: 0.923, TC:0.77, ClustalW: SP: 0.903, TC:0.75, Muscle: SP: 0.931, TC:0.74
+data/ref_10/BBA0204.
+{'cl_omega': 853.84202003479, 'cl_w': 801.7048835754395, 'muscle': 513.4787559509277}
+ClustalOmega: SP: 0.906, TC:0.58, ClustalW: SP: 0.904, TC:0.53, Muscle: SP: 0.894, TC:0.49
+data/ref_10/BBA0058.
+data/ref_10/BBA0196.
+data/ref_10/BBA0049.
+data/ref_10/BBA0199.
+{'cl_omega': 3150.160789489746, 'cl_w': 7606.801748275757, 'muscle': 2169.7988510131836}
+ClustalOmega: SP: 0.96, TC:0.66, ClustalW: SP: 0.95, TC:0.61, Muscle: SP: 0.952, TC:0.62
+data/ref_10/BBA0044.
+data/ref_10/BBA0187.
+data/ref_10/BBA0046.
+{'cl_omega': 251.92499160766602, 'cl_w': 275.634765625, 'muscle': 319.42272186279297}
+ClustalOmega: SP: 0.91, TC:0.67, ClustalW: SP: 0.908, TC:0.71, Muscle: SP: 0.911, TC:0.7
+data/ref_10/BBA0170.
+{'cl_omega': 14142.105102539062, 'cl_w': 15703.622817993164, 'muscle': 36095.962047576904}
+ClustalOmega: SP: 0.9, TC:0.0, ClustalW: SP: 0.952, TC:0.0, Muscle: SP: 0.968, TC:0.0
+data/ref_10/BBA0153.
+{'cl_omega': 1833.9440822601318, 'cl_w': 8542.548656463623, 'muscle': 7966.942310333252}
+ClustalOmega: SP: 0.962, TC:0.45, ClustalW: SP: 0.924, TC:0.45, Muscle: SP: 0.971, TC:0.49
+data/ref_10/BBA0175.
+{'cl_omega': 49.62897300720215, 'cl_w': 33.330678939819336, 'muscle': 43.825387954711914}
+ClustalOmega: SP: 0.968, TC:0.86, ClustalW: SP: 0.984, TC:0.91, Muscle: SP: 0.959, TC:0.76
+data/ref_10/BBA0190.
+data/ref_10/BBA0194.
+{'cl_omega': 246.19793891906738, 'cl_w': 305.64212799072266, 'muscle': 222.09525108337402}
+ClustalOmega: SP: 0.988, TC:0.92, ClustalW: SP: 0.957, TC:0.92, Muscle: SP: 0.962, TC:0.93
+data/ref_10/BBA0015.
+data/ref_10/BBA0022.
+{'cl_omega': 111.85789108276367, 'cl_w': 135.90288162231445, 'muscle': 150.85124969482422}
+ClustalOmega: SP: 0.939, TC:0.71, ClustalW: SP: 0.932, TC:0.72, Muscle: SP: 0.962, TC:0.74
+data/ref_10/BBA0009.
+{'cl_omega': 388.81540298461914, 'cl_w': 1253.2179355621338, 'muscle': 410.4573726654053}
+ClustalOmega: SP: 0.99, TC:0.86, ClustalW: SP: 0.977, TC:0.79, Muscle: SP: 0.987, TC:0.85
+data/ref_10/BBA0167.
+{'cl_omega': 2202.979803085327, 'cl_w': 1910.1324081420898, 'muscle': 4256.058692932129}
+ClustalOmega: SP: 0.826, TC:0.75, ClustalW: SP: 0.758, TC:0.37, Muscle: SP: 0.705, TC:0.0
+data/ref_10/BBA0045.
+{'cl_omega': 4321.919918060303, 'cl_w': 8918.661832809448, 'muscle': 20352.00262069702}
+ClustalOmega: SP: 0.179, TC:0.0, ClustalW: SP: 0.233, TC:0.0, Muscle: SP: 0.181, TC:0.0
+data/ref_10/BBA0129.
+data/ref_10/BBA0206.
+{'cl_omega': 119.91357803344727, 'cl_w': 114.97688293457031, 'muscle': 96.39263153076172}
+ClustalOmega: SP: 0.922, TC:0.72, ClustalW: SP: 0.898, TC:0.66, Muscle: SP: 0.928, TC:0.75
+data/ref_10/BBA0169.
+{'cl_omega': 545.8290576934814, 'cl_w': 457.96799659729004, 'muscle': 1528.090238571167}
+ClustalOmega: SP: 0.801, TC:0.64, ClustalW: SP: 0.729, TC:0.32, Muscle: SP: 0.719, TC:0.48
+data/ref_10/BBA0100.
+data/ref_10/BBA0177.
+{'cl_omega': 1357.780933380127, 'cl_w': 6714.935064315796, 'muscle': 3313.6582374572754}
+ClustalOmega: SP: 0.957, TC:0.78, ClustalW: SP: 0.859, TC:0.5, Muscle: SP: 0.966, TC:0.61
+data/ref_10/BBA0057.
+{'cl_omega': 3331.9334983825684, 'cl_w': 6318.479776382446, 'muscle': 2547.173500061035}
+ClustalOmega: SP: 0.835, TC:0.46, ClustalW: SP: 0.774, TC:0.34, Muscle: SP: 0.883, TC:0.39
+data/ref_10/BBA0047.
+{'cl_omega': 851.8333435058594, 'cl_w': 951.1733055114746, 'muscle': 448.0266571044922}
+ClustalOmega: SP: 0.857, TC:0.56, ClustalW: SP: 0.757, TC:0.43, Muscle: SP: 0.87, TC:0.59
+data/ref_10/BBA0092.
+{'cl_omega': 797.980785369873, 'cl_w': 3299.185037612915, 'muscle': 2182.9934120178223}
+ClustalOmega: SP: 0.96, TC:0.0, ClustalW: SP: 0.941, TC:0.62, Muscle: SP: 0.947, TC:0.0
+data/ref_10/BBA0023.
+{'cl_omega': 764.5273208618164, 'cl_w': 3058.4356784820557, 'muscle': 3429.734468460083}
+ClustalOmega: SP: 0.992, TC:0.95, ClustalW: SP: 0.957, TC:0.86, Muscle: SP: 0.989, TC:0.95
+data/ref_10/BBA0202.
+data/ref_10/BBA0186.
+data/ref_10/BBA0138.
+data/ref_10/BBA0172.
+{'cl_omega': 6743.902683258057, 'cl_w': 28963.062286376953, 'muscle': 19450.031995773315}
+ClustalOmega: SP: 0.979, TC:0.68, ClustalW: SP: 0.978, TC:0.6, Muscle: SP: 0.99, TC:0.62
+data/ref_10/BBA0037.
+{'cl_omega': 3142.01283454895, 'cl_w': 1642.2910690307617, 'muscle': 8558.93874168396}
+ClustalOmega: SP: 0.924, TC:0.56, ClustalW: SP: 0.735, TC:0.0, Muscle: SP: 0.82, TC:0.0
+data/ref_10/BBA0055.
+{'cl_omega': 6703.911542892456, 'cl_w': 15103.57403755188, 'muscle': 12575.717210769653}
+ClustalOmega: SP: 0.941, TC:0.75, ClustalW: SP: 0.867, TC:0.59, Muscle: SP: 0.899, TC:0.65
+data/ref_10/BBA0105.
+{'cl_omega': 1578.756332397461, 'cl_w': 1643.0084705352783, 'muscle': 1627.2099018096924}
+ClustalOmega: SP: 0.966, TC:0.91, ClustalW: SP: 0.927, TC:0.76, Muscle: SP: 0.861, TC:0.68
+data/ref_10/BBA0142.
+{'cl_omega': 36.017656326293945, 'cl_w': 24.91283416748047, 'muscle': 40.872812271118164}
+ClustalOmega: SP: 0.908, TC:0.56, ClustalW: SP: 0.902, TC:0.58, Muscle: SP: 0.9, TC:0.56
+data/ref_10/BBA0149.
+{'cl_omega': 536.8404388427734, 'cl_w': 348.04534912109375, 'muscle': 718.0395126342773}
+ClustalOmega: SP: 0.627, TC:0.24, ClustalW: SP: 0.594, TC:0.0, Muscle: SP: 0.604, TC:0.18
+data/ref_10/BBA0195.
+{'cl_omega': 19814.61763381958, 'cl_w': 31031.346082687378, 'muscle': 15473.372459411621}
+ClustalOmega: SP: 0.751, TC:0.11, ClustalW: SP: 0.813, TC:0.0, Muscle: SP: 0.699, TC:0.0
+data/ref_10/BBA0016.
+{'cl_omega': 251.34038925170898, 'cl_w': 449.69964027404785, 'muscle': 340.5439853668213}
+ClustalOmega: SP: 0.999, TC:0.98, ClustalW: SP: 0.952, TC:0.0, Muscle: SP: 0.993, TC:0.85
+data/ref_10/BBA0148.
+{'cl_omega': 2756.155252456665, 'cl_w': 4712.082147598267, 'muscle': 3528.7387371063232}
+ClustalOmega: SP: 0.906, TC:0.54, ClustalW: SP: 0.82, TC:0.37, Muscle: SP: 0.859, TC:0.37
+data/ref_10/BBA0048.
+{'cl_omega': 8719.221591949463, 'cl_w': 7766.696453094482, 'muscle': 6133.122682571411}
+ClustalOmega: SP: 0.831, TC:0.35, ClustalW: SP: 0.769, TC:0.42, Muscle: SP: 0.843, TC:0.23
+data/ref_10/BBA0041.
+{'cl_omega': 488.5063171386719, 'cl_w': 431.3530921936035, 'muscle': 485.2015972137451}
+ClustalOmega: SP: 0.832, TC:0.71, ClustalW: SP: 0.743, TC:0.19, Muscle: SP: 0.737, TC:0.33
+data/ref_10/BBA0060.
+{'cl_omega': 1137.895107269287, 'cl_w': 1740.8063411712646, 'muscle': 909.7409248352051}
+ClustalOmega: SP: 0.907, TC:0.79, ClustalW: SP: 0.746, TC:0.49, Muscle: SP: 0.825, TC:0.67
+data/ref_10/BBA0085.
+{'cl_omega': 664.6952629089355, 'cl_w': 579.5176029205322, 'muscle': 619.5657253265381}
+ClustalOmega: SP: 0.775, TC:0.18, ClustalW: SP: 0.681, TC:0.0, Muscle: SP: 0.736, TC:0.17
+data/ref_10/BBA0069.
+{'cl_omega': 4151.092767715454, 'cl_w': 4673.401117324829, 'muscle': 5359.797477722168}
+ClustalOmega: SP: 0.83, TC:0.62, ClustalW: SP: 0.746, TC:0.44, Muscle: SP: 0.807, TC:0.53
+data/ref_10/BBA0180.
+data/ref_10/BBA0108.
+data/ref_10/BBA0025.
+{'cl_omega': 241.3008213043213, 'cl_w': 359.652042388916, 'muscle': 617.0642375946045}
+ClustalOmega: SP: 1.0, TC:1.0, ClustalW: SP: 1.0, TC:1.0, Muscle: SP: 1.0, TC:1.0
+data/ref_10/BBA0126.
+{'cl_omega': 1700.129508972168, 'cl_w': 1983.7465286254883, 'muscle': 11211.089134216309}
+ClustalOmega: SP: 0.733, TC:0.43, ClustalW: SP: 0.528, TC:0.0, Muscle: SP: 0.742, TC:0.0
+data/ref_10/BBA0205.
+{'cl_omega': 1566.206455230713, 'cl_w': 2411.214590072632, 'muscle': 1529.7515392303467}
+ClustalOmega: SP: 0.956, TC:0.83, ClustalW: SP: 0.928, TC:0.74, Muscle: SP: 0.963, TC:0.68
+data/ref_10/BBA0077.
+{'cl_omega': 2267.6432132720947, 'cl_w': 3341.604709625244, 'muscle': 3700.8183002471924}
+ClustalOmega: SP: 1.0, TC:1.0, ClustalW: SP: 0.985, TC:0.85, Muscle: SP: 0.932, TC:0.0
+data/ref_10/BBA0214.
+data/ref_10/BBA0035.
+{'cl_omega': 5507.904529571533, 'cl_w': 8725.335597991943, 'muscle': 8875.473499298096}
+ClustalOmega: SP: 0.883, TC:0.74, ClustalW: SP: 0.849, TC:0.67, Muscle: SP: 0.902, TC:0.69
+data/ref_10/BBA0091.
+{'cl_omega': 95851.62281990051, 'cl_w': 87800.44174194336, 'muscle': 103550.28820037842}
+ClustalOmega: SP: 0.273, TC:0.0, ClustalW: SP: 0.268, TC:0.0, Muscle: SP: 0.362, TC:0.0
+data/ref_10/BBA0011.
+{'cl_omega': 434.77869033813477, 'cl_w': 1800.8711338043213, 'muscle': 932.1143627166748}
+ClustalOmega: SP: 0.98, TC:0.73, ClustalW: SP: 0.987, TC:0.79, Muscle: SP: 0.986, TC:0.8
+data/ref_10/BBA0189.
+{'cl_omega': 48.43902587890625, 'cl_w': 45.86529731750488, 'muscle': 51.80096626281738}
+ClustalOmega: SP: 0.957, TC:0.92, ClustalW: SP: 0.934, TC:0.88, Muscle: SP: 0.915, TC:0.85
+data/ref_10/BBA0217.
+{'cl_omega': 50.194501876831055, 'cl_w': 51.2392520904541, 'muscle': 55.44734001159668}
+ClustalOmega: SP: 0.888, TC:0.52, ClustalW: SP: 0.945, TC:0.75, Muscle: SP: 0.858, TC:0.52
+data/ref_10/BBA0201.
+{'cl_omega': 280.5342674255371, 'cl_w': 327.3768424987793, 'muscle': 251.27887725830078}
+ClustalOmega: SP: 0.909, TC:0.64, ClustalW: SP: 0.866, TC:0.47, Muscle: SP: 0.896, TC:0.64
+data/ref_10/BBA0101.
+data/ref_10/BBA0183.
+{'cl_omega': 389.606237411499, 'cl_w': 640.9642696380615, 'muscle': 1833.7254524230957}
+ClustalOmega: SP: 0.876, TC:0.53, ClustalW: SP: 0.856, TC:0.53, Muscle: SP: 0.885, TC:0.53
+data/ref_10/BBA0099.
+{'cl_omega': 6078.494548797607, 'cl_w': 14926.716327667236, 'muscle': 16713.88006210327}
+ClustalOmega: SP: 0.552, TC:0.0, ClustalW: SP: 0.449, TC:0.0, Muscle: SP: 0.408, TC:0.0
+data/ref_10/BBA0178.
+{'cl_omega': 1263.7145519256592, 'cl_w': 6481.703758239746, 'muscle': 5131.86240196228}
+ClustalOmega: SP: 0.924, TC:0.77, ClustalW: SP: 0.817, TC:0.6, Muscle: SP: 0.824, TC:0.58
+data/ref_10/BBA0079.
+data/ref_10/BBA0124.
+{'cl_omega': 455.1105499267578, 'cl_w': 316.76673889160156, 'muscle': 499.0854263305664}
+ClustalOmega: SP: 0.986, TC:0.95, ClustalW: SP: 0.81, TC:0.0, Muscle: SP: 0.94, TC:0.85
+data/ref_10/BBA0112.
+{'cl_omega': 5980.625867843628, 'cl_w': 14058.08973312378, 'muscle': 12628.956317901611}
+ClustalOmega: SP: 0.867, TC:0.44, ClustalW: SP: 0.705, TC:0.0, Muscle: SP: 0.734, TC:0.39
+data/ref_10/BBA0168.
+data/ref_10/BBA0068.
+{'cl_omega': 9367.17176437378, 'cl_w': 22885.793209075928, 'muscle': 51318.17841529846}
+ClustalOmega: SP: 0.681, TC:0.4, ClustalW: SP: 0.565, TC:0.0, Muscle: SP: 0.24, TC:0.0
+data/ref_10/BBA0082.
+data/ref_10/BBA0134.
+data/ref_10/BBA0174.
+{'cl_omega': 2711.8799686431885, 'cl_w': 7308.582782745361, 'muscle': 4069.52166557312}
+ClustalOmega: SP: 0.609, TC:0.0, ClustalW: SP: 0.575, TC:0.0, Muscle: SP: 0.62, TC:0.01
+data/ref_10/BBA0098.
+{'cl_omega': 392.5189971923828, 'cl_w': 400.4814624786377, 'muscle': 273.059606552124}
+ClustalOmega: SP: 0.684, TC:0.52, ClustalW: SP: 0.649, TC:0.41, Muscle: SP: 0.718, TC:0.48
+data/ref_10/BBA0164.
+data/ref_10/BBA0050.
+{'cl_omega': 2198.4896659851074, 'cl_w': 1952.2132873535156, 'muscle': 1214.8447036743164}
+ClustalOmega: SP: 0.9, TC:0.64, ClustalW: SP: 0.832, TC:0.48, Muscle: SP: 0.873, TC:0.61
+data/ref_10/BBA0042.
+data/ref_10/BBA0031.
+{'cl_omega': 203.07278633117676, 'cl_w': 274.2934226989746, 'muscle': 925.6496429443359}
+ClustalOmega: SP: 0.979, TC:0.78, ClustalW: SP: 0.941, TC:0.58, Muscle: SP: 0.962, TC:0.7
+data/ref_10/BBA0065.
+{'cl_omega': 3727.6852130889893, 'cl_w': 14490.700006484985, 'muscle': 13063.384771347046}
+ClustalOmega: SP: 0.919, TC:0.79, ClustalW: SP: 0.846, TC:0.79, Muscle: SP: 0.888, TC:0.86
+data/ref_10/BBA0012.
+{'cl_omega': 391.8595314025879, 'cl_w': 742.875337600708, 'muscle': 1143.1503295898438}
+ClustalOmega: SP: 0.973, TC:0.75, ClustalW: SP: 0.949, TC:0.62, Muscle: SP: 0.983, TC:0.74
+data/ref_10/BBA0063.
+{'cl_omega': 11527.571678161621, 'cl_w': 18308.820486068726, 'muscle': 48610.037088394165}
+ClustalOmega: SP: 0.991, TC:0.6, ClustalW: SP: 0.897, TC:0.0, Muscle: SP: 0.958, TC:0.0
+data/ref_10/BBA0007.
+{'cl_omega': 194.84567642211914, 'cl_w': 336.9901180267334, 'muscle': 294.9714660644531}
+ClustalOmega: SP: 0.987, TC:0.91, ClustalW: SP: 0.989, TC:0.94, Muscle: SP: 0.99, TC:0.91
+data/ref_10/BBA0121.
+{'cl_omega': 2828.193426132202, 'cl_w': 7028.767108917236, 'muscle': 2725.1455783843994}
+ClustalOmega: SP: 0.956, TC:0.76, ClustalW: SP: 0.957, TC:0.75, Muscle: SP: 0.949, TC:0.69
+data/ref_10/BBA0192.
+{'cl_omega': 223.36745262145996, 'cl_w': 152.7423858642578, 'muscle': 86.61532402038574}
+ClustalOmega: SP: 0.834, TC:0.8, ClustalW: SP: 0.854, TC:0.81, Muscle: SP: 0.824, TC:0.79
+data/ref_10/BBA0157.
+data/ref_10/BBA0081.
+{'cl_omega': 81112.86401748657, 'cl_w': 255995.6729412079, 'muscle': 401073.79508018494}
+ClustalOmega: SP: 0.858, TC:0.0, ClustalW: SP: 0.577, TC:0.0, Muscle: SP: 0.856, TC:0.0
+data/ref_10/BBA0160.
+{'cl_omega': 3714.110851287842, 'cl_w': 8467.602014541626, 'muscle': 5328.121900558472}
+ClustalOmega: SP: 0.952, TC:0.84, ClustalW: SP: 0.805, TC:0.58, Muscle: SP: 0.95, TC:0.81
+data/ref_10/BBA0210.
+{'cl_omega': 2141.481876373291, 'cl_w': 5827.764272689819, 'muscle': 3552.076816558838}
+ClustalOmega: SP: 0.905, TC:0.73, ClustalW: SP: 0.847, TC:0.63, Muscle: SP: 0.892, TC:0.67
+data/ref_10/BBA0093.
+{'cl_omega': 936.8770122528076, 'cl_w': 1495.1953887939453, 'muscle': 1137.8905773162842}
+ClustalOmega: SP: 1.0, TC:0.99, ClustalW: SP: 0.997, TC:0.99, Muscle: SP: 0.995, TC:0.99
+data/ref_10/BBA0070.
+{'cl_omega': 3118.628740310669, 'cl_w': 9276.485204696655, 'muscle': 7599.37858581543}
+ClustalOmega: SP: 0.979, TC:0.63, ClustalW: SP: 0.964, TC:0.61, Muscle: SP: 0.966, TC:0.43
+data/ref_10/BBA0165.
+{'cl_omega': 484.37976837158203, 'cl_w': 626.6641616821289, 'muscle': 401.3998508453369}
+ClustalOmega: SP: 0.888, TC:0.84, ClustalW: SP: 0.859, TC:0.81, Muscle: SP: 0.858, TC:0.78
+data/ref_10/BBA0209.
+{'cl_omega': 9576.249599456787, 'cl_w': 18600.867748260498, 'muscle': 22952.491760253906}
+ClustalOmega: SP: 0.979, TC:0.7, ClustalW: SP: 0.815, TC:0.0, Muscle: SP: 0.979, TC:0.78
+data/ref_10/BBA0028.
+{'cl_omega': 144.8380947113037, 'cl_w': 260.16974449157715, 'muscle': 123.58593940734863}
+ClustalOmega: SP: 0.951, TC:0.56, ClustalW: SP: 0.954, TC:0.78, Muscle: SP: 0.965, TC:0.77
+data/ref_10/BBA0137.
+data/ref_10/BBA0005.
+{'cl_omega': 280.7645797729492, 'cl_w': 620.2061176300049, 'muscle': 404.18219566345215}
+ClustalOmega: SP: 0.94, TC:0.66, ClustalW: SP: 0.934, TC:0.61, Muscle: SP: 0.927, TC:0.59
+data/ref_10/BBA0067.
+{'cl_omega': 56101.7906665802, 'cl_w': 211303.47228050232, 'muscle': 124245.78356742859}
+ClustalOmega: SP: 0.819, TC:0.33, ClustalW: SP: 0.689, TC:0.0, Muscle: SP: 0.85, TC:0.0
+data/ref_10/BBA0021.
+{'cl_omega': 622.7278709411621, 'cl_w': 825.3631591796875, 'muscle': 1919.7521209716797}
+ClustalOmega: SP: 0.98, TC:0.87, ClustalW: SP: 0.98, TC:0.85, Muscle: SP: 0.966, TC:0.49
+data/ref_10/BBA0203.
+{'cl_omega': 1349.3757247924805, 'cl_w': 8622.437238693237, 'muscle': 1916.1767959594727}
+ClustalOmega: SP: 0.975, TC:0.92, ClustalW: SP: 0.96, TC:0.91, Muscle: SP: 0.973, TC:0.88
+data/ref_10/BBA0111.
+{'cl_omega': 7946.261405944824, 'cl_w': 19230.467557907104, 'muscle': 32819.68021392822}
+ClustalOmega: SP: 0.614, TC:0.37, ClustalW: SP: 0.663, TC:0.35, Muscle: SP: 0.619, TC:0.35
+data/ref_10/BBA0188.
+data/ref_10/BBA0212.
+{'cl_omega': 369.04335021972656, 'cl_w': 506.3471794128418, 'muscle': 248.1098175048828}
+ClustalOmega: SP: 0.965, TC:0.81, ClustalW: SP: 0.964, TC:0.84, Muscle: SP: 0.965, TC:0.82
+data/ref_10/BBA0185.
+data/ref_10/BBA0208.
+{'cl_omega': 1349.2450714111328, 'cl_w': 3642.967939376831, 'muscle': 3110.3155612945557}
+ClustalOmega: SP: 0.942, TC:0.79, ClustalW: SP: 0.856, TC:0.53, Muscle: SP: 0.902, TC:0.53
+data/ref_10/BBA0084.
+{'cl_omega': 1107.5234413146973, 'cl_w': 2442.027807235718, 'muscle': 1400.8781909942627}
+ClustalOmega: SP: 0.971, TC:0.85, ClustalW: SP: 0.976, TC:0.88, Muscle: SP: 0.983, TC:0.9
+data/ref_10/BBA0104.
+{'cl_omega': 397.8767395019531, 'cl_w': 332.2427272796631, 'muscle': 328.9198875427246}
+ClustalOmega: SP: 0.73, TC:0.57, ClustalW: SP: 0.718, TC:0.0, Muscle: SP: 0.769, TC:0.59
+data/ref_10/BBA0043.
+{'cl_omega': 6853.614568710327, 'cl_w': 18179.27646636963, 'muscle': 4183.476686477661}
+ClustalOmega: SP: 0.967, TC:0.78, ClustalW: SP: 0.933, TC:0.7, Muscle: SP: 0.959, TC:0.77
+data/ref_10/BBA0216.
+{'cl_omega': 439.6364688873291, 'cl_w': 356.44030570983887, 'muscle': 319.8983669281006}
+ClustalOmega: SP: 0.553, TC:0.33, ClustalW: SP: 0.443, TC:0.28, Muscle: SP: 0.422, TC:0.28
+data/ref_10/BBA0006.
+{'cl_omega': 744.330883026123, 'cl_w': 2405.082941055298, 'muscle': 2177.4253845214844}
+ClustalOmega: SP: 0.848, TC:0.66, ClustalW: SP: 0.861, TC:0.67, Muscle: SP: 0.964, TC:0.77
+data/ref_10/BBA0066.
+data/ref_10/BBA0083.
+{'cl_omega': 1026.5288352966309, 'cl_w': 1331.188440322876, 'muscle': 1736.6704940795898}
+ClustalOmega: SP: 0.875, TC:0.51, ClustalW: SP: 0.833, TC:0.45, Muscle: SP: 0.594, TC:0.0
+data/ref_10/BBA0038.
+{'cl_omega': 8697.18050956726, 'cl_w': 22038.475513458252, 'muscle': 6011.602401733398}
+ClustalOmega: SP: 0.852, TC:0.46, ClustalW: SP: 0.866, TC:0.42, Muscle: SP: 0.876, TC:0.44
+data/ref_10/BBA0144.
+{'cl_omega': 8453.399658203125, 'cl_w': 36045.34983634949, 'muscle': 27160.492181777954}
+ClustalOmega: SP: 0.982, TC:0.87, ClustalW: SP: 0.986, TC:0.87, Muscle: SP: 0.951, TC:0.0
+data/ref_10/BBA0102.
+{'cl_omega': 13481.103897094727, 'cl_w': 30949.4686126709, 'muscle': 18059.255838394165}
+ClustalOmega: SP: 0.711, TC:0.09, ClustalW: SP: 0.024, TC:0.0, Muscle: SP: 0.613, TC:0.0
+data/ref_10/BBA0139.
+data/ref_10/BBA0019.
+{'cl_omega': 273.0991840362549, 'cl_w': 866.5344715118408, 'muscle': 400.3615379333496}
+ClustalOmega: SP: 0.996, TC:0.91, ClustalW: SP: 0.994, TC:0.93, Muscle: SP: 0.991, TC:0.9
+data/ref_10/BBA0176.
+{'cl_omega': 460.9231948852539, 'cl_w': 1136.2237930297852, 'muscle': 501.3155937194824}
+ClustalOmega: SP: 0.982, TC:0.88, ClustalW: SP: 0.98, TC:0.88, Muscle: SP: 0.973, TC:0.76
+data/ref_10/BBA0198.
+data/ref_10/BBA0075.
+{'cl_omega': 5618.7379360198975, 'cl_w': 27319.663524627686, 'muscle': 18070.743322372437}
+ClustalOmega: SP: 0.965, TC:0.65, ClustalW: SP: 0.971, TC:0.48, Muscle: SP: 0.971, TC:0.55
+data/ref_10/BBA0010.
+{'cl_omega': 918.900728225708, 'cl_w': 3111.365795135498, 'muscle': 3673.7143993377686}
+ClustalOmega: SP: 0.617, TC:0.1, ClustalW: SP: 0.258, TC:0.0, Muscle: SP: 0.629, TC:0.0
+data/ref_10/BBA0034.
+data/ref_10/BBA0114.
+{'cl_omega': 4335.467338562012, 'cl_w': 4961.438894271851, 'muscle': 5584.715366363525}
+ClustalOmega: SP: 0.817, TC:0.52, ClustalW: SP: 0.755, TC:0.37, Muscle: SP: 0.795, TC:0.47
+data/ref_10/BBA0161.
+{'cl_omega': 4078.996181488037, 'cl_w': 11987.984418869019, 'muscle': 8285.510301589966}
+ClustalOmega: SP: 0.975, TC:0.88, ClustalW: SP: 0.974, TC:0.87, Muscle: SP: 0.966, TC:0.86
+data/ref_10/BBA0151.
+{'cl_omega': 1863.4099960327148, 'cl_w': 4465.517997741699, 'muscle': 2691.251516342163}
+ClustalOmega: SP: 0.971, TC:0.83, ClustalW: SP: 0.941, TC:0.71, Muscle: SP: 0.932, TC:0.58
+data/ref_10/BBA0143.
+data/ref_10/BBA0120.
+{'cl_omega': 88.76299858093262, 'cl_w': 75.43706893920898, 'muscle': 59.145212173461914}
+ClustalOmega: SP: 0.886, TC:0.78, ClustalW: SP: 0.85, TC:0.71, Muscle: SP: 0.863, TC:0.74
+data/ref_10/BBA0033.
+{'cl_omega': 328.11856269836426, 'cl_w': 759.840726852417, 'muscle': 1213.5498523712158}
+ClustalOmega: SP: 0.941, TC:0.69, ClustalW: SP: 0.907, TC:0.52, Muscle: SP: 0.936, TC:0.8
+data/ref_10/BBA0115.
+{'cl_omega': 1128.2627582550049, 'cl_w': 2788.398027420044, 'muscle': 1237.001657485962}
+ClustalOmega: SP: 0.938, TC:0.76, ClustalW: SP: 0.88, TC:0.69, Muscle: SP: 0.93, TC:0.7
+data/ref_10/BBA0141.
+data/ref_10/BBA0036.
+{'cl_omega': 2765.878200531006, 'cl_w': 3097.4347591400146, 'muscle': 2039.611577987671}
+ClustalOmega: SP: 0.957, TC:0.73, ClustalW: SP: 0.971, TC:0.73, Muscle: SP: 0.908, TC:0.52
+data/ref_10/BBA0116.
+{'cl_omega': 8260.855674743652, 'cl_w': 24007.67755508423, 'muscle': 5621.686697006226}
+ClustalOmega: SP: 0.822, TC:0.39, ClustalW: SP: 0.798, TC:0.4, Muscle: SP: 0.843, TC:0.47
+data/ref_10/BBA0090.
+{'cl_omega': 503.97300720214844, 'cl_w': 454.7593593597412, 'muscle': 543.7757968902588}
+ClustalOmega: SP: 0.931, TC:0.63, ClustalW: SP: 0.931, TC:0.58, Muscle: SP: 0.938, TC:0.54
+data/ref_10/BBA0163.
+{'cl_omega': 2535.754442214966, 'cl_w': 2646.122694015503, 'muscle': 9662.256479263306}
+ClustalOmega: SP: 0.815, TC:0.46, ClustalW: SP: 0.175, TC:0.0, Muscle: SP: 0.716, TC:0.0
+data/ref_10/BBA0074.
+{'cl_omega': 5567.1868324279785, 'cl_w': 5477.249383926392, 'muscle': 8820.642709732056}
+ClustalOmega: SP: 0.516, TC:0.31, ClustalW: SP: 0.475, TC:0.32, Muscle: SP: 0.552, TC:0.27
+data/ref_10/BBA0123.
+data/ref_10/BBA0039.
+data/ref_10/BBA0107.
+{'cl_omega': 1177.687406539917, 'cl_w': 1607.731580734253, 'muscle': 6475.681781768799}
+ClustalOmega: SP: 0.714, TC:0.24, ClustalW: SP: 0.313, TC:0.0, Muscle: SP: 0.777, TC:0.3
+data/ref_10/BBA0128.
+data/ref_10/BBA0197.
+data/ref_10/BBA0109.
+{'cl_omega': 8734.451293945312, 'cl_w': 17882.541179656982, 'muscle': 21822.794198989868}
+ClustalOmega: SP: 0.977, TC:0.7, ClustalW: SP: 0.812, TC:0.0, Muscle: SP: 0.981, TC:0.7
+data/ref_10/BBA0024.
+{'cl_omega': 583.4627151489258, 'cl_w': 1540.1623249053955, 'muscle': 4092.2021865844727}
+ClustalOmega: SP: 0.978, TC:0.88, ClustalW: SP: 0.912, TC:0.8, Muscle: SP: 0.928, TC:0.8
+data/ref_10/BBA0158.
+{'cl_omega': 2266.249656677246, 'cl_w': 3375.236988067627, 'muscle': 1788.6934280395508}
+ClustalOmega: SP: 0.598, TC:0.27, ClustalW: SP: 0.604, TC:0.0, Muscle: SP: 0.64, TC:0.0
+data/ref_10/BBA0089.
+{'cl_omega': 1247.6541996002197, 'cl_w': 2988.508939743042, 'muscle': 3207.6809406280518}
+ClustalOmega: SP: 1.0, TC:0.98, ClustalW: SP: 0.996, TC:0.98, Muscle: SP: 0.993, TC:0.97
+data/ref_10/BBA0135.
+{'cl_omega': 1254.1017532348633, 'cl_w': 1581.9859504699707, 'muscle': 2775.5043506622314}
+ClustalOmega: SP: 0.676, TC:0.34, ClustalW: SP: 0.574, TC:0.32, Muscle: SP: 0.545, TC:0.4
+data/ref_10/BBA0013.
+{'cl_omega': 105.19552230834961, 'cl_w': 139.2669677734375, 'muscle': 98.42228889465332}
+ClustalOmega: SP: 0.98, TC:0.82, ClustalW: SP: 0.975, TC:0.87, Muscle: SP: 0.979, TC:0.82
+data/ref_10/BBA0171.
+{'cl_omega': 306.11467361450195, 'cl_w': 609.0044975280762, 'muscle': 247.9391098022461}
+ClustalOmega: SP: 0.857, TC:0.69, ClustalW: SP: 0.859, TC:0.74, Muscle: SP: 0.85, TC:0.7
+data/ref_10/BBA0113.
+{'cl_omega': 4294.856548309326, 'cl_w': 19981.935262680054, 'muscle': 4504.432678222656}
+ClustalOmega: SP: 0.951, TC:0.58, ClustalW: SP: 0.952, TC:0.6, Muscle: SP: 0.96, TC:0.68
+data/ref_10/BBA0061.
+{'cl_omega': 13433.20369720459, 'cl_w': 175528.36298942566, 'muscle': 47002.31862068176}
+ClustalOmega: SP: 0.91, TC:0.0, ClustalW: SP: 0.928, TC:0.3, Muscle: SP: 0.942, TC:0.27
+data/ref_10/BBA0095.
+{'cl_omega': 2785.7418060302734, 'cl_w': 4246.556282043457, 'muscle': 5311.809778213501}
+ClustalOmega: SP: 0.931, TC:0.83, ClustalW: SP: 0.907, TC:0.86, Muscle: SP: 0.916, TC:0.83
+data/ref_10/BBA0136.
+{'cl_omega': 475.1136302947998, 'cl_w': 406.3563346862793, 'muscle': 422.15418815612793}
+ClustalOmega: SP: 0.717, TC:0.39, ClustalW: SP: 0.882, TC:0.62, Muscle: SP: 0.633, TC:0.37
+data/ref_10/BBA0159.
+{'cl_omega': 556.2703609466553, 'cl_w': 550.3573417663574, 'muscle': 407.23204612731934}
+ClustalOmega: SP: 0.699, TC:0.5, ClustalW: SP: 0.613, TC:0.43, Muscle: SP: 0.709, TC:0.52
+data/ref_10/BBA0032.
+{'cl_omega': 62.11280822753906, 'cl_w': 54.2449951171875, 'muscle': 71.9153881072998}
+ClustalOmega: SP: 0.986, TC:0.84, ClustalW: SP: 0.973, TC:0.84, Muscle: SP: 0.986, TC:0.84
+data/ref_10/BBA0030.
+{'cl_omega': 92.49114990234375, 'cl_w': 83.49156379699707, 'muscle': 73.23837280273438}
+ClustalOmega: SP: 0.922, TC:0.71, ClustalW: SP: 0.884, TC:0.6, Muscle: SP: 0.9, TC:0.54
+data/ref_10/BBA0053.
+data/ref_10/BBA0127.
+{'cl_omega': 4132.661819458008, 'cl_w': 10164.685487747192, 'muscle': 3398.116111755371}
+ClustalOmega: SP: 0.932, TC:0.74, ClustalW: SP: 0.861, TC:0.63, Muscle: SP: 0.938, TC:0.73
+data/ref_10/BBA0071.
+{'cl_omega': 3062.067747116089, 'cl_w': 6534.351110458374, 'muscle': 2618.5929775238037}
+ClustalOmega: SP: 0.957, TC:0.68, ClustalW: SP: 0.964, TC:0.76, Muscle: SP: 0.945, TC:0.6
