@@ -14,7 +14,7 @@ class SPTC(object):
         self.tc = tc
 
     def __str__(self):
-        return 'SP: {}, TC:{}'.format(self.sp, self.tc)
+        return 'SP: {:.3f}, TC:{:.3f}'.format(self.sp, self.tc)
 
 
 class Result(object):
