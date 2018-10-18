@@ -1,6 +1,8 @@
 #! /usr/bin/python
 # -*- coding: utf-8 -*-
 import glob
+import os
+import pickle
 from code.Wrappers import ClustalOWrapper, ClustalWWrapper, MuscleWrapper, BaliScoreWrapper
 from code.Parsers import NotProperNumberException
 
@@ -42,16 +44,25 @@ class Analysis(object):
         cww_results = SPTC(*self.bsw.run(reference_alignment_path, test_alignment_path))
         self.mw.run(seqs_to_be_aligned_path, test_alignment_path, log_time=times, log_name='muscle')
         mw_results = SPTC(*self.bsw.run(reference_alignment_path, test_alignment_path))
-        print(times)
-        return Result(cow_results, cww_results, mw_results)
+        return Result(cow_results, cww_results, mw_results), times
 
 
 if __name__ == '__main__':
     anal = Analysis()
-    for path in glob.glob('data/ref_10/*.msf'):
-        base = path[:-3]
-        print(base)
-        try:
-            print(anal.run(base + 'tfa', 'temp/blah10', path))
-        except NotProperNumberException:
-            continue
+    ref_sets = ('1.2', '10', '2')
+    path_string = 'data/ref_%s/*.msf'
+    for ref_set in ref_sets:
+        pattern = path_string%ref_set
+        res_dict = {}
+        for path in glob.glob(pattern):
+            base = path[:-3]
+            print(base)
+            try:
+                res, times = anal.run(base + 'tfa', 'temp/blah', path)
+                print(res)
+                print(times)
+                res_dict[base] = (res, times)
+            except NotProperNumberException:
+                continue
+        with open(os.path.join('res', ref_set+'.dump'), 'wb') as f:
+            pickle.dump(res_dict, f)
