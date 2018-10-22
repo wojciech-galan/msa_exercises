@@ -71,7 +71,7 @@ if __name__ == '__main__':
         path_fragment_2 = random.choice(curated_data2_fragments)
         id_2, _ = get_id_and_fasta_name_from_path_fragment(path_fragment_2)
         id_10, _ = get_id_and_fasta_name_from_path_fragment(random.choice(truncated_sorted_data_set_10)[0])
-        with open(os.path.join(args.path+str(i), 'instrukcja')) as f:
+        with open(os.path.join(args.path+str(i), 'instrukcja'), 'w') as f:
             f.write(instruction%(file_pattern_12 % (fastas_dir, name_12), id_12, id_2, id_10))
 
     print(i, len(curated_data2_fragments), len(sorted_data_set_10))
