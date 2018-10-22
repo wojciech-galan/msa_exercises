@@ -5,6 +5,9 @@ import shutil
 import os
 import random
 import argparse
+import sys
+sys.path.insert(0,'/home/galan/msa_exercises/')
+print(sys.path)
 from code.run_analysis import SPTC, Result
 
 
