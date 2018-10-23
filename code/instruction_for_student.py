@@ -59,9 +59,20 @@ if __name__ == '__main__':
     file_pattern_12 = 'https://raw.githubusercontent.com/wojciech-galan/msa_exercises/master/%s/%s'
     data_set_2 = unpickle_file('res/2.dump')
     sorted_data_set_10 = sort_according_to_time('res/10.dump', 'cl_omega')
-    offset = 3
+    offset = 6
     truncated_sorted_data_set_10 = list(reversed(sorted_data_set_10[offset:offset+how_many_elements]))
     curated_data2_fragments = curate_paths(data_set_2)  # w bazie nie widać linków do BBS
+    print(1.2)
+    for k, v in sorted_data_set_12:
+        if not 'BBS' in k:
+            print(k.strip('.').split('/')[-1], v[0], v[1])
+    print(2)
+    for k, v in data_set_2.items():
+        if not 'BBS' in k:
+            print(k.strip('.').split('/')[-1], v[0], v[1])
+    print(10)
+    for k, v in truncated_sorted_data_set_10:
+        print(k.strip('.').split('/')[-1], v[0], v[1])
     try:
         shutil.rmtree(fastas_dir)
         os.makedirs(fastas_dir)
