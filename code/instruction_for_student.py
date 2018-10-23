@@ -55,7 +55,7 @@ if __name__ == '__main__':
     how_many_elements = args.num_of_text_to_create
     fastas_dir = 'fastas'
     sorted_data_set_12 = sort_according_to_time('res/1.2.dump', 'cl_omega')
-    curated_paths_of_interest_12 = curate_paths([x[0] for x in sorted_data_set_12][:how_many_elements])
+    curated_paths_of_interest_12 = curate_paths([x[0] for x in sorted_data_set_12])[:how_many_elements]
     file_pattern_12 = 'https://raw.githubusercontent.com/wojciech-galan/msa_exercises/master/%s/%s'
     data_set_2 = unpickle_file('res/2.dump')
     sorted_data_set_10 = sort_according_to_time('res/10.dump', 'cl_omega')
