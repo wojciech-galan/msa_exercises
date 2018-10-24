@@ -46,6 +46,9 @@ def curate_paths(path_list):
     """removes paths containing 'BBS' (in fact shorter seqs)"""
     return [x for x in path_list if not 'BBS' in x]
 
+def round_float_values(a_dictionary):
+    return {k:round(v) for k, v in a_dictionary.items()}
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='')
@@ -63,16 +66,16 @@ if __name__ == '__main__':
     truncated_sorted_data_set_10 = list(reversed(sorted_data_set_10[offset:offset+how_many_elements]))
     curated_data2_fragments = curate_paths(data_set_2)  # w bazie nie widać linków do BBS
     print(1.2)
-    for k, v in sorted_data_set_12:
+    for k, v in sorted(sorted_data_set_12):
         if not 'BBS' in k:
-            print(k.strip('.').split('/')[-1], v[0], v[1])
+            print(k.strip('.').split('/')[-1], v[0], round_float_values(v[1]))
     print(2)
-    for k, v in data_set_2.items():
+    for k, v in sorted(data_set_2.items()):
         if not 'BBS' in k:
-            print(k.strip('.').split('/')[-1], v[0], v[1])
+            print(k.strip('.').split('/')[-1], v[0], round_float_values(v[1]))
     print(10)
-    for k, v in truncated_sorted_data_set_10:
-        print(k.strip('.').split('/')[-1], v[0], v[1])
+    for k, v in sorted(truncated_sorted_data_set_10):
+        print(k.strip('.').split('/')[-1], v[0], round_float_values(v[1]))
     try:
         shutil.rmtree(fastas_dir)
         os.makedirs(fastas_dir)
